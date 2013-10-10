@@ -1,3 +1,3 @@
 # RVM
 
-source /Users/jmatos/.rvm/scripts/rvm
+source /Users/douglasmarques/.rvm/scripts/rvm
